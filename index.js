@@ -1,4 +1,4 @@
-function Shout(String){
+functions sayHiToGrandma(String){
 
     return String.toLowerCase()
       console.log()
