@@ -1,4 +1,4 @@
-function logShout(Hello){
+function logShout(String){
   console.log()
-  return Hello.toLowerCase()
+  return String.toUpperCase()
 }
